@@ -1,0 +1,14 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\etec.Recuperacao.Interface\bin\Debug\etec.Recuperacao.Interface.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\etec.Recuperacao.Interface\bin\Debug\etec.Recuperacao.Interface.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\etec.Recuperacao.Interface\obj\x86\Debug\etec.Recuperacao.Interface.CadCli.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\etec.Recuperacao.Interface\obj\x86\Debug\etec.Recuperacao.Interface.FrmPrincipal.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\etec.Recuperacao.Interface\obj\x86\Debug\etec.Recuperacao.Interface.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\etec.Recuperacao.Interface\obj\x86\Debug\etec.Recuperacao.Interface.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\etec.Recuperacao.Interface\obj\x86\Debug\etec.Recuperacao.Interface.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\etec.Recuperacao.Interface\obj\x86\Debug\etec.Recuperacao.Interface.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\etec.Recuperacao.Interface\obj\x86\Debug\etec.Recuperacao.Interface.CadFunc.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\etec.Recuperacao.Interface\obj\x86\Debug\etec.Recuperacao.Interface.CadCar.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\etec.Recuperacao.Interface\obj\x86\Debug\etec.Recuperacao.Interface.ConsultarCli.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\etec.Recuperacao.Interface\obj\x86\Debug\etec.Recuperacao.Interface.ConsultFunc.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\etec.Recuperacao.Interface\etec.Recuperacao.Interface\obj\x86\Debug\etec.Recuperacao.Interface.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\etec.Recuperacao.Interface\etec.Recuperacao.Interface\obj\x86\Debug\etec.Recuperacao.Interface.pdb
